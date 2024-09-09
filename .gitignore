@@ -1,0 +1,13 @@
+# Ignore .env file
+.env
+
+# Ignore .idea folder (IDE configuration files)
+.idea/
+
+# Ignore all files inside data folder, but keep the folder
+data/*
+!data/.gitkeep
+
+# Ignore all files inside embeddings folder, but keep the folder
+embeddings/*
+!embeddings/.gitkeep
