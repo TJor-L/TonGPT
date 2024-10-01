@@ -9,5 +9,5 @@ data/*
 !data/.gitkeep
 
 # Ignore all files inside embeddings folder, but keep the folder
-embeddings/*
-!embeddings/.gitkeep
+legacy/embeddings/*
+!legacy/embeddings/.gitkeep
